@@ -1,0 +1,1922 @@
+[
+  {
+    "qid": "synthetic_q1",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q2",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q3",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q4",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q5",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q6",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q7",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q8",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q9",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q10",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q11",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q12",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q13",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q14",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q15",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q16",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q17",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q18",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q19",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q20",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q21",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q22",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q23",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q24",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q25",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q26",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q27",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q28",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q29",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q30",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q31",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q32",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q33",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q34",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q35",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q36",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q37",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q38",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q39",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q40",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q41",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q42",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q43",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q44",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q45",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q46",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q47",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q48",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q49",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q50",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q51",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q52",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q53",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q54",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q55",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q56",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q57",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q58",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q59",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q60",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q61",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q62",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q63",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q64",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q65",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q66",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q67",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q68",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q69",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q70",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q71",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q72",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q73",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q74",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q75",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q76",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q77",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q78",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q79",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q80",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q81",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q82",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q83",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q84",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q85",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q86",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q87",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q88",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q89",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q90",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q91",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q92",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q93",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q94",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q95",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q96",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q97",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q98",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q99",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q100",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q101",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q102",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q103",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q104",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q105",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q106",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q107",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q108",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q109",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q110",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q111",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q112",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q113",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Marie Curie studied or worked?",
+    "gold_answer": "Capital of France",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a famous scientist who studied/worked at Sorbonne University in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is associated with the detail: Capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q114",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Alan Turing studied or worked?",
+    "gold_answer": "University in Cambridgeshire",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a famous scientist who studied/worked at King's College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: University in Cambridgeshire."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q115",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Albert Einstein studied or worked?",
+    "gold_answer": "Largest city in Switzerland",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a famous scientist who studied/worked at University of Zurich in Zurich."
+      },
+      {
+        "title": "Zurich",
+        "text": "Zurich is associated with the detail: Largest city in Switzerland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q116",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Isaac Newton studied or worked?",
+    "gold_answer": "Famous college in England",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a famous scientist who studied/worked at Trinity College in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Famous college in England."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q117",
+    "difficulty": "hard",
+    "question": "What region or city detail is associated with the place where Leonardo da Vinci studied or worked?",
+    "gold_answer": "Region in central Italy",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was a famous scientist who studied/worked at Florence in Tuscany."
+      },
+      {
+        "title": "Tuscany",
+        "text": "Tuscany is associated with the detail: Region in central Italy."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q118",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Galileo Galilei studied or worked?",
+    "gold_answer": "City in Tuscany",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a famous scientist who studied/worked at University of Pisa in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is associated with the detail: City in Tuscany."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q119",
+    "difficulty": "easy",
+    "question": "What region or city detail is associated with the place where Charles Darwin studied or worked?",
+    "gold_answer": "Capital of Scotland",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a famous scientist who studied/worked at University of Edinburgh in Edinburgh."
+      },
+      {
+        "title": "Edinburgh",
+        "text": "Edinburgh is associated with the detail: Capital of Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "synthetic_q120",
+    "difficulty": "medium",
+    "question": "What region or city detail is associated with the place where Stephen Hawking studied or worked?",
+    "gold_answer": "Historical city in England",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a famous scientist who studied/worked at University of Cambridge in Cambridge."
+      },
+      {
+        "title": "Cambridge",
+        "text": "Cambridge is associated with the detail: Historical city in England."
+      }
+    ]
+  }
+]

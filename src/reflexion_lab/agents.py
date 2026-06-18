@@ -1,7 +1,8 @@
 from __future__ import annotations
+import time
 from dataclasses import dataclass
 from typing import Literal
-from .mock_runtime import FAILURE_MODE_BY_QID, actor_answer, evaluator, reflector
+from .mock_runtime import FAILURE_MODE_BY_QID, actor_answer, evaluator, reflector, get_last_token_count
 from .schemas import AttemptTrace, QAExample, ReflectionEntry, RunRecord
 
 @dataclass
@@ -15,24 +16,41 @@ class BaseAgent:
         final_answer = ""
         final_score = 0
         for attempt_id in range(1, self.max_attempts + 1):
+            t0 = time.perf_counter()
             answer = actor_answer(example, attempt_id, self.agent_type, reflection_memory)
+            tokens_actor = get_last_token_count()
+            
             judge = evaluator(example, answer)
-            # TODO: Replace with actual token count from LLM response
-            token_estimate = 320 + (attempt_id * 65) + (120 if self.agent_type == "reflexion" else 0)
-            # TODO: Replace with actual latency measurement
-            latency_ms = 160 + (attempt_id * 40) + (90 if self.agent_type == "reflexion" else 0)
-            trace = AttemptTrace(attempt_id=attempt_id, answer=answer, score=judge.score, reason=judge.reason, token_estimate=token_estimate, latency_ms=latency_ms)
+            tokens_eval = get_last_token_count()
+            
+            latency_ms = int((time.perf_counter() - t0) * 1000)
+            token_estimate = tokens_actor + tokens_eval
+            
+            trace = AttemptTrace(
+                attempt_id=attempt_id,
+                answer=answer,
+                score=judge.score,
+                reason=judge.reason,
+                token_estimate=token_estimate,
+                latency_ms=latency_ms
+            )
             final_answer = answer
             final_score = judge.score
             if judge.score == 1:
                 traces.append(trace)
                 break
             
-            # TODO: Học viên triển khai logic Reflexion tại đây
-            # 1. Kiểm tra nếu agent_type là 'reflexion' và chưa hết số lần attempt
-            # 2. Gọi hàm reflector để lấy nội dung reflection
-            # 3. Cập nhật reflection_memory để Actor dùng cho lần sau
-            pass
+            if self.agent_type == "reflexion" and attempt_id < self.max_attempts:
+                t_ref_0 = time.perf_counter()
+                reflection = reflector(example, attempt_id, judge)
+                tokens_ref = get_last_token_count()
+                
+                trace.latency_ms += int((time.perf_counter() - t_ref_0) * 1000)
+                trace.token_estimate += tokens_ref
+                
+                reflections.append(reflection)
+                trace.reflection = reflection
+                reflection_memory.append(f"Attempt {attempt_id} failed: {reflection.failure_reason}. Strategy: {reflection.next_strategy}")
             traces.append(trace)
         total_tokens = sum(t.token_estimate for t in traces)
         total_latency = sum(t.latency_ms for t in traces)
